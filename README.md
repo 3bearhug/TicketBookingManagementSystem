@@ -32,3 +32,4 @@ Project Users, Actors, Vendors, Actuators:
 End Users: Customers who want to book tickets for local trains.
 Admin: Responsible for managing the system, viewing booked tickets, and handling any issues that may arise.
 Vendors: Local train operators/providers who will provide the train schedules and availability data.
+
